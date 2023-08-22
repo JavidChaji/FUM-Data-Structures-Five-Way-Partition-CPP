@@ -1,3 +1,3 @@
 # five-way-partition
 
-Ferdowsi University of Mashhad Data-Structures-Five-Way-Partition-CPP
+Ferdowsi University of Mashhad Data Structures Five Way Partition CPP
