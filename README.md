@@ -25,9 +25,9 @@ Ferdowsi University of Mashhad Data Structures Five Way Partition CPP
 [contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Five-Way-Partition-CPP/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Five-Way-Partition-CPP.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Data-Structures-Five-Way-Partition-CPP/network/members
 
 
 <!-- Stars -->
